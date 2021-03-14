@@ -1,0 +1,39 @@
+
+    .contient_tout{
+        width: 500px;
+        margin: auto;
+        background-color: lavender;
+
+    }
+    h1,h2{
+        text-align: center;
+    }
+    
+    .section{
+        margin-top: 10px;
+        margin-bottom: 20px;
+        background-color: lightcoral;
+    }
+    hr{
+        /*height: 2px;*/
+        border-color: indigo;
+    }
+    .intro{
+        position: relative;
+        background-color: lawngreen;
+    }
+    #list_Intro{
+        display: inline-block;
+        list-style-type: none;
+        position: absolute;
+        right: 0px;
+        margin-top:20px;
+        height: 150px;
+        margin-top: 50px;
+    }
+    img{
+        left: 0px   ;
+        border-radius:40%;
+        height: 150px;
+    }
+
